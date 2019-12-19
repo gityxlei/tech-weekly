@@ -12,15 +12,36 @@
 
 [小马哥](https://mercyblitz.github.io/about/)，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PPMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) 项目架构师。目前主要负责集团中间件开源项目、微服务技术实施、架构衍进、基础设施构建等。通过 SUN Java（SCJP、SCWCD、SCBCD）以及 Oracle OCA 等的认证。
 
-### 免费类目
 
-- [斗鱼直播](https://www.douyu.com/mercyblitz)
-- [往期录播（B 站）](http://space.bilibili.com/327910845/channel/detail?cid=52311)
-- [公开课]：即将上线
 
-### 收费类目
+## 著书
+
+- [《Spring Boot 编程思想》](/books/thinking-in-spring-boot/)
+  - [《核心篇》](https://mercyblitz.github.io/books/thinking-in-spring-boot/core/preface/)（[订购](https://item.jd.com/12570242.html)）
+  - 《运维篇》（即将完稿…)
+  - 《Web 篇》(编写中…)
+
+
+
+## 线上分享
+
+### 免费分享
+
+- [「小马哥技术周报」](https://www.douyu.com/mercyblitz)
+	- [斗鱼直播](https://www.douyu.com/mercyblitz)
+	- [B 站录播](http://space.bilibili.com/327910845/channel/detail?cid=52311)
+- [「慕课网」](https://www.imooc.com/t/5387391)
+	- [Spring Boot 2.0深度实践-初遇Spring Boot](https://www.imooc.com/learn/933) 
+  - [Spring Boot 2.0深度实践之系列总览](https://www.imooc.com/learn/1058)
+- [「SegmentFault」](https://segmentfault.com/u/mercyblitz)
+	- [「小马哥 2019 跨年直播」一入 Java 深似海，从此“劝退”成必然](https://mp.weixin.qq.com/s?__biz=MzIxNDU4NjE1OQ==&mid=2247484085&idx=1&sn=5905f53e69bae9d48b3783a83bde40b3)	
+
+
+
+### 收费分享
 
 - [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
+> 深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
 
 - SegmentFault 直播
   - [《Java 微服务实践 - Spring Boot / Spring Cloud》](http://t.cn/RoC0nNi)
@@ -29,11 +50,9 @@
 - 慕课视频
   - [《Spring Boot 2.0深度实践之核心技术篇》](http://t.cn/ReChCU9)
 
-### 我的书籍
-
-- 《Spring Boot 编程思想（核心篇）》，订购链接：http://t.cn/ExjBU2M
-
-### [我的博客](http://t.cn/E6bTwbW)
+- 慕课网
+    - [Spring Boot 2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
+    - Spring Boot 2.0深度实践之生态整合篇（即将上线...）
 
 
 ## 沟通交流
@@ -45,7 +64,21 @@
 
 
 ## 往期录播
-
+- [2019.11.29 第三十八期 - 阿里开源工程 Spring Boot Web 扩展工程](https://www.bilibili.com/video/av77491862)
+- [2019.11.22 第三十七期 - Pivotal 技术峰会2019（北京站）见闻](https://www.bilibili.com/video/av76793947)
+- [2019.11.15 第三十六期 - 阿里开源工程 Spring WebMVC 扩展之内容协商](https://www.bilibili.com/video/av75800062)
+- [2019.11.01 第三十五期 - 阿里开源工程 Spring WebMVC 扩展之扩展 HandlerInterceptor](https://www.bilibili.com/video/av74195849)
+- [2019.10.11 第三十四期 - 阿里开源项目系列之 Spring Context 扩展工程](https://www.bilibili.com/video/av70943964)
+- [2019.09.27 第三十三期 - InfoQ 2019 中国（大陆） Java 发展趋势报告解读](https://www.bilibili.com/video/av69203663)
+- [2019.09.20 第三十二期 - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（下）](https://www.bilibili.com/video/av68453823)
+- [2019.09.12 第三十一期 - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（中）](https://www.bilibili.com/video/av67520312)
+- [2019.09.07 第三十期   - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（上）](https://www.bilibili.com/video/av66869726)
+- [2019.08.09 第二十九期 - Apache Dubbo 设计与实现系列之 Spring Boot 工程](https://www.bilibili.com/video/av63033885)
+- [2019.07.26 第二十八期 - Apache Dubbo 设计与实现系列之外部化配置](https://www.bilibili.com/video/av60919327)
+- [2019.07.05 第二十七期 - Apache Dubbo 设计与实现系列之注解驱动](https://www.bilibili.com/video/av58004178)
+- [2019.06.29 第二十六期 - GIAC 2019 - Dubbo Spring Cloud 重塑微服务治理](https://www.bilibili.com/video/av57421314)
+- [2019.05.31 第二十五期 - Java 自虐题精选](https://www.bilibili.com/video/av54202244)
+- [2019.04.28 第二十四期 - Spring Core 面试题精选](https://www.bilibili.com/video/av50576322)
 - [2019.04.12 第二十三期 - 面试虐我千百遍，Java 并发真讨厌（续）](https://www.bilibili.com/video/av49124110)
 - [2019.03.29 第二十二期 - Apache Dubbo 微服务系列之 ALL IN ONE](https://www.bilibili.com/video/av47712354)
 - [2019.03.15 第二十一期 - Apache Dubbo 微服务系列之网关整合](https://www.bilibili.com/video/av46476226)
